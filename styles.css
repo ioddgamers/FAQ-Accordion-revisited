@@ -8,7 +8,7 @@
 }
 
 body {
-    background: url(/faq-accordion-main/assets/images/background-pattern-mobile.svg) no-repeat;
+    background: url(faq-accordion-main/assets/images/background-pattern-mobile.svg) no-repeat;
     background-color: hsl(275, 100%, 97%);
     background-size: 100vw;
     display: flex;
@@ -82,7 +82,7 @@ h2 {
 
 @media (min-width: 600px) { 
     body {
-        background: url(/faq-accordion-main/assets/images/background-pattern-desktop.svg) no-repeat;
+        background: url(faq-accordion-main/assets/images/background-pattern-desktop.svg) no-repeat;
         background-color: hsl(275, 100%, 97%);
         background-size: 100vw;
         display: flex;
