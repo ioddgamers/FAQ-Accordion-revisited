@@ -13,6 +13,6 @@ function toggleAnswer(clickedElement) {
     if (answerVisible) {
         togglePlusIcon.src = toggleMinusIcon.src;
     } else {
-        togglePlusIcon.src = "/faq-accordion-main/assets/images/icon-plus.svg";
+        togglePlusIcon.src = "faq-accordion-main/assets/images/icon-plus.svg";
     }
 }
